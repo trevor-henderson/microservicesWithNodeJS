@@ -1,0 +1,14 @@
+{
+  "name": "user-service",
+  "version": "1.0.0",
+  "description": "the micro-serivce for users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trevor Henderson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
